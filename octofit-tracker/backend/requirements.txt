@@ -1,5 +1,5 @@
 # Requirements for OctoFit Tracker backend
-Django>=3.2
+Django>=3.2,<4.0
 djangorestframework
 pillow
 psycopg2
